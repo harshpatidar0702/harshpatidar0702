@@ -9,3 +9,16 @@
 - 💞️ I’m looking to collaborate on projects involving front-end development, web design, and full-stack development.
 - 📫 How to reach me: You can contact me via my GitHub or email at harshpatidar0702@gmail.com.
 - ⚡ Fun fact: I love solving coding challenges and learning new things every day!
+
+---
+
+## 📊 GitHub Stats
+
+![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshpatidar0702&show_icons=true&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshpatidar0702&theme=dark)
+
+![GitHub Snake](https://github.com/harshpatidar0702/github-snake.svg)
+
+---
+
