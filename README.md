@@ -1,9 +1,9 @@
 # 👋 Hi, I’m @harshpatidar0702
 
 - 👀 I’m interested in Front-End Development, Web Design, and Problem Solving.
-- 💼 I’m currently working as a Front-End Developer and have experience working on live projects.
+- 💼 I’m currently working as a Front-End Developer with 1 year of professional experience working on live projects.
 - 💡 I have hands-on experience with the following technologies:
-  - **HTML, CSS, JavaScript, and Bootstrap** for building responsive and interactive web pages.
+  - HTML, CSS, JavaScript, React, Vue.js, and Bootstrap for building responsive and interactive web pages.
   - **Python** for backend development and scripting.
   - **SQL** and **MongoDB** for working with databases.
 - 💞️ I’m looking to collaborate on projects involving front-end development, web design, and full-stack development.
