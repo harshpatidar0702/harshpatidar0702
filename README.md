@@ -16,9 +16,6 @@
 
 ![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshpatidar0702&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=harshpatidar0702&theme=dark)
-
-![GitHub Snake](https://github.com/harshpatidar0702/github-snake.svg)
 
 ---
 
