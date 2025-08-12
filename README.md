@@ -10,12 +10,5 @@
 - 📫 How to reach me: You can contact me via my GitHub or email at harshpatidar0702@gmail.com.
 - ⚡ Fun fact: I love solving coding challenges and learning new things every day!
 
----
 
-## 📊 GitHub Stats
-
-![Harsh's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshpatidar0702&show_icons=true&theme=radical)
-
-
----
 
