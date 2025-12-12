@@ -7,7 +7,7 @@
   - **Python** for backend development and scripting.
   - **SQL** and **MongoDB** for working with databases.
 - 💞️ I’m looking to collaborate on projects involving front-end development, web design, and full-stack development.
-- 📫 How to reach me: You can contact me via my GitHub or email at harshpatidar0702@gmail.com
+- 📫 How to reach me: You can contact me via my GitHub or email at harshpatidar0702@gmail.com.
 - ⚡ Fun fact: I love solving coding challenges and learning new things every day!
 
 
